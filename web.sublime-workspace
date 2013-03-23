@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"cm",
+				"cmt"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"get",
+				"get_object_or_404  (function)"
+			],
+			[
+				"mi",
+				"mimg	ImageField (mimg)"
+			],
+			[
+				"mt",
+				"mtext	TextField (mtext)"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"__",
+				"__file__"
+			],
+			[
+				"render",
+				"render_to_response  (function)"
+			],
+			[
+				"con",
+				"contrib  (module)"
+			],
+			[
+				"di",
+				"dirname"
+			],
+			[
+				"pa",
+				"path  (module)"
+			],
+			[
+				"nor",
+				"normpath  (function)"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wi",
+				"wid	width"
+			],
+			[
+				"fondo",
+				"fondo_logo"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"add",
+				"addPostForm"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"comen",
+				"comentario"
+			],
+			[
+				"come",
+				"comentario"
+			],
+			[
+				"com",
+				"comentarioForm"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"cont",
+				"context_instance"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"logi",
+				"loginForm"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"magi",
+				"margin-top"
+			],
+			[
+				"blog",
+				"blogpy"
+			],
+			[
+				"produ",
+				"productosNuevos"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pagin",
+				"paginator"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"boot",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"char",
+				"Snippet: CharField (mchar)"
+			],
+			[
+				"var",
+				"Snippet: context variable (var)"
+			],
+			[
+				"blo",
+				"Snippet: block"
+			],
+			[
+				"page",
+				"Snippet: bootpagesimple"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"cm",
+				"Snippet: cmh"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"bootstrap pa",
+				"Snippet: Bootstrap pager with aligned links"
+			],
+			[
+				"cdn",
+				"Snippet: cdn"
+			],
+			[
+				"for",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"war",
+				"Snippet: Bootstrap warning inline label"
+			],
+			[
+				"form",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"tum",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"vp",
+				"Snippet: vp_mobile"
+			],
+			[
+				"vp_",
+				"Snippet: vp_mobile"
+			],
+			[
+				"snipp",
+				"Snippet: cdn"
+			],
+			[
+				"bootstra",
+				"Snippet: Bootstrap default blockquote"
+			],
+			[
+				"bootstr",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"jqmheader",
+				"Snippet: jQuery Mobile: Semantic inline header"
+			],
+			[
+				"jqmhe",
+				"Snippet: jQuery Mobile: Fixed header"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alexis/.config/sublime-text-2/Packages/User/Fetch.sublime-settings",
+		"/home/alexis/Descargas/17 Super Mario Spiele(Gb Gbc Gba Nes Snes n64 incl. Emus)/password.txt",
+		"/home/alexis/www/pag_consejo/views/programas/cie.phtml",
+		"/home/alexis/www/pag_consejo/application/database.php",
+		"/home/alexis/www/pag_consejo/application/model.php",
+		"/home/alexis/www/pag_consejo/application/DataBase.php",
+		"/home/alexis/www/pag_consejo/views/programas/index.phtml",
+		"/home/alexis/www/pag_consejo/views/layout/default/header.php",
+		"/home/alexis/www/pag_consejo/controllers/programasController.php",
+		"/home/alexis/www/pag_consejo/application/view.php",
+		"/home/alexis/www/pag_consejo/views/programas/incubadora.phtml",
+		"/home/alexis/www/pag_consejo/controllers/conocenosController.php",
+		"/home/alexis/django/recetario/recetario/templates/base.html",
+		"/home/alexis/django/recetario/recetario/templates/principal/receta.html",
+		"/home/alexis/django/recetario/recetario/templates/principal/usuarios.html",
+		"/home/alexis/django/recetario/recetario/principal/urls.py",
+		"/home/alexis/django/recetario/recetario/principal/admin.py",
+		"/home/alexis/django/recetario/recetario/principal/views.py",
+		"/home/alexis/django/recetario/recetario/media/js/bootstrap.js",
+		"/home/alexis/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/alexis/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/alexis/django/recetario/recetario/templates/principal/index.html",
+		"/home/alexis/django/recetario/recetario/principal/models.py",
+		"/home/alexis/django/recetario/recetario/templates/principal/sobre.html",
+		"/home/alexis/django/blog/blog/principal/admin.py",
+		"/home/alexis/django/recetario/recetario/settings.py",
+		"/home/alexis/django/blog/blog/principal/urls.py",
+		"/home/alexis/django/recetario/recetario/urls.py",
+		"/home/alexis/django/blog/blog/urls.py",
+		"/home/alexis/django/recetario/principal/views.py",
+		"/home/alexis/django/recetario/principal/urls.py",
+		"/home/alexis/django/libros/libros/urls.py",
+		"/home/alexis/www/nano_framework/application/session.php",
+		"/home/alexis/www/nano_framework/views/error/access.phtml",
+		"/home/alexis/www/nano_framework/views/error/index.phtml",
+		"/home/alexis/www/pag_consejo/views/layout/default/css/main.css",
+		"/home/alexis/www/pag_consejo/views/conocenos/organismos.phtml",
+		"/home/alexis/www/pag_consejo/views/conocenos/mision_vision.phtml",
+		"/home/alexis/www/pag_consejo/views/index/index.phtml",
+		"/home/alexis/www/blog/views/index/index.phtml",
+		"/home/alexis/www/blog/application/config.php",
+		"/home/alexis/.config/sublime-text-2/Packages/User/bootpagesimple.sublime-snippet",
+		"/home/alexis/CSS-fremawork/found/index.html",
+		"/home/alexis/django/blog/blog/principal/views.py",
+		"/home/alexis/django/blog/blog/settings.py",
+		"/home/alexis/.config/sublime-text-2/Packages/User/html5f.sublime-snippet",
+		"/home/alexis/www/jquery/jq/demo3.html",
+		"/home/alexis/www/jquery/jq/js/funciones1.js",
+		"/home/alexis/www/jquery/jq/estilos3.css",
+		"/home/alexis/www/jquery/jq/js/funciones.js",
+		"/home/alexis/www/jquery/jq/demo2.html",
+		"/home/alexis/www/jquery/jq/index.html",
+		"/home/alexis/www/jquery/jq/ej1.html",
+		"/home/alexis/www/jquery/pruebas/file1.html",
+		"/home/alexis/django/framework/framework/apps/home/views.py",
+		"/home/alexis/django/blog/blog/ws/wsPost/views.py",
+		"/home/alexis/django/blog/blog/ws/wsPost/urls.py",
+		"/home/alexis/django/framework/framework/apps/webServices/wsProductos/views.py",
+		"/home/alexis/django/framework/framework/apps/webServices/wsProductos/models.py",
+		"/home/alexis/django/blog/blog/badmin/views.py",
+		"/home/alexis/django/blog/blog/badmin/forms.py",
+		"/home/alexis/django/blog/blog/templates/admin.html",
+		"/home/alexis/django/blog/blog/templates/badmin/editPost.html",
+		"/home/alexis/django/blog/blog/templates/badmin/index.html",
+		"/home/alexis/django/blog/blog/templates/badmin/addPost.html",
+		"/home/alexis/django/blog/blog/badmin/urls.py",
+		"/home/alexis/django/blog/blog/media/css/admin.css",
+		"/home/alexis/django/blog/blog/templates/base.html",
+		"/home/alexis/django/blog/blog/media/css/main.css",
+		"/home/alexis/django/blog/blog/templates/principal/index.html",
+		"/home/alexis/django/blog/blog/principal/models.py",
+		"/home/alexis/www/incubadora/index.php",
+		"/home/alexis/django/blog/blog/templates/principal/single_post.html",
+		"/home/alexis/django/framework/framework/apps/ventas/views.py",
+		"/home/alexis/django/blog/blog/principal/forms.py",
+		"/home/alexis/django/framework/framework/apps/home/urls.py",
+		"/home/alexis/django/blog/blog/principal/funciones.py",
+		"/home/alexis/django/blog/blog/templates/badmin/login.html",
+		"/home/alexis/django/blog/blog/templates/principal/login.html",
+		"/home/alexis/django/framework/framework/apps/home/forms.py",
+		"/home/alexis/django/blog/blog/principal/form.py",
+		"/home/alexis/django/framework/framework/templates/home/login.html",
+		"/home/alexis/www/pag_consejo/views/conocenos/expresidentes.phtml",
+		"/home/alexis/www/pag_consejo/ftpsync.settings",
+		"/home/alexis/www/pag_consejo/application/config.php",
+		"/home/alexis/django/bootstrap/bootstrap/media/css/main.css",
+		"/home/alexis/django/blog/blog/media/js/main.js",
+		"/home/alexis/django/blog/blog/media/css/groundwork.css",
+		"/home/alexis/django/framework/framework/urls.py",
+		"/home/alexis/django/framework/framework/settings.py",
+		"/home/alexis/django/framework/framework/apps/ventas/urls.py",
+		"/home/alexis/django/blog/blog/templates/layout-2.html",
+		"/home/alexis/.config/sublime-text-2/Packages/User/cmh.sublime-snippet",
+		"/home/alexis/django/framework/framework/apps/webServices/wsProductos/urls.py",
+		"/home/alexis/django/framework/framework/templates/base.html",
+		"/home/alexis/.config/sublime-text-2/Packages/User/elsepy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/extpy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/vpy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/url.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/mv.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/ifpy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/headpy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/forpy.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/vp_mobile.sublime-snippet",
+		"/home/alexis/.config/sublime-text-2/Packages/User/blockpy.sublime-snippet",
+		"/home/alexis/django/framework/framework/apps/ventas/models.py",
+		"/home/alexis/django/framework/framework/apps/webServices/wsProductos/admin.py",
+		"/home/alexis/django/framework/framework/templates/ventas/addProducto.html",
+		"/home/alexis/django/framework/framework/templates/home/singleProducto.html",
+		"/home/alexis/django/framework/framework/templates/home/productos.html",
+		"/home/alexis/www/pag_consejo/application/request.php",
+		"/home/alexis/www/pag_consejo/views/layout/default/footer.php",
+		"/home/alexis/Dropbox/htdocs/colores/views/index/index.phtml",
+		"/home/alexis/.config/sublime-text-2/Packages/User/cdn.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text-center",
+			"/h3",
+			"<h3",
+			"js/",
+			"../assets/",
+			"../assets/css/",
+			"../assets/",
+			"mayores_edad",
+			"class=\"fade\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"boo",
+				"recetario/media/js/bootstrap.js"
+			],
+			[
+				"bas",
+				"recetario/templates/base.html"
+			],
+			[
+				"in",
+				"recetario/templates/principal/index.html"
+			],
+			[
+				"ba",
+				"recetario/templates/base.html"
+			],
+			[
+				"u",
+				"recetario/principal/urls.py"
+			],
+			[
+				"adm",
+				"recetario/principal/admin.py"
+			],
+			[
+				"mod",
+				"recetario/principal/models.py"
+			],
+			[
+				"ad",
+				"recetario/principal/admin.py"
+			],
+			[
+				"model",
+				"recetario/principal/models.py"
+			],
+			[
+				"se",
+				"recetario/settings.py"
+			],
+			[
+				"view",
+				"recetario/principal/views.py"
+			],
+			[
+				"inde",
+				"recetario/templates/principal/index.html"
+			],
+			[
+				"ur",
+				"recetario/principal/urls.py"
+			],
+			[
+				"",
+				"recetario/urls.py"
+			],
+			[
+				"url",
+				"recetario/urls.py"
+			],
+			[
+				"vie",
+				"principal/views.py"
+			],
+			[
+				"urls",
+				"principal/urls.py"
+			],
+			[
+				"v",
+				"libros/view.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true
+}
